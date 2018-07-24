@@ -1,0 +1,8 @@
+keras
+imageio
+pandas
+requests
+seaborn
+six
+tqdm
+watermark

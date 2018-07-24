@@ -1,0 +1,30 @@
+
+# Jupyter
+.ipynb_checkpoints
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.pyc
+.DS_Store
+
+# Tensorflow data and model summaries & checkpoints
+checkpoints/
+checkpoints*
+ckpt/*
+examples/data
+examples/graphs/*
+examples/checkpoints/*
+examples/visualization/*
+events*
+logs
+log_mnist_softmax
+log_softmax_relu_dropout
+graphs
+model
+summary/*
+summary/
+tmp
+**/ckpt/
+**/ckpt*/
+**/summary/

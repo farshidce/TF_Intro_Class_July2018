@@ -1,0 +1,2 @@
+model_checkpoint_path: "notebook13_params"
+all_model_checkpoint_paths: "notebook13_params"
